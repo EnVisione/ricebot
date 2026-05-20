@@ -1,0 +1,34 @@
+{
+  "1100363774457810964": {
+    "meta": {
+      "configVersion": 2,
+      "guildName": "Rice Labs"
+    },
+    "server": {
+      "dashboardRoles": [],
+      "blacklistRoles": [],
+      "globalTicketLimit": 1,
+      "commandPrefix": "/",
+      "storageCategories": [],
+      "phantomPing": {
+        "enabled": true,
+        "channelId": "1101855320151695450"
+      }
+    },
+    "panels": {},
+    "reactionRoles": {
+      "channelId": null,
+      "panelMessageId": null,
+      "style": "button",
+      "embedTitle": "Choose Your Roles",
+      "embedDescription": "Select roles below.",
+      "embedColor": 16777215,
+      "embedThumbnailUrl": null,
+      "embedImageUrl": null,
+      "embedFooterText": null,
+      "compact": false,
+      "roles": [],
+      "exclusiveGroups": []
+    }
+  }
+}

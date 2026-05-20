@@ -1,0 +1,20 @@
+{
+  "name": "discord-js14",
+  "version": "1.0.0",
+  "description": "Bot Discord 14",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislasbdx/pterodactyl-egg-discord.git"
+  },
+  "author": "You <3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanislasbdx/pterodactyl-egg-discord/issues"
+  },
+  "homepage": "https://github.com/stanislasbdx/pterodactyl-egg-discord#readme",
+  "dependencies": {
+    "discord.js": "~14.24.0",
+    "dotenv": "^16.4.0"
+  }
+}
